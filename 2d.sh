@@ -1,4 +1,5 @@
 #!/bin/sh
+##Reconstructing argument part
 
 ##Description: bash script for oil palm 2d simulation
 
